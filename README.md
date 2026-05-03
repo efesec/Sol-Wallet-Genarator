@@ -15,4 +15,4 @@ High-entropy Solana (SPL) wallet generator using Ed25519 curve derivation.
 | **Output File** | `solwallet.txt` |
 
 ## ⚖️ Legal Disclaimer
-Securing the generated seed phrases is the user's obligation. The developer shall not be held accountable for any unauthorized access or loss of assets.
+This software is provided for educational and testing purposes only. The developer assumes no responsibility for any financial loss, data theft, or loss of access to generated wallets. The user carries 100% of the legal and financial risk associated with the use of this script.
